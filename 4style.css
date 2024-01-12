@@ -1,0 +1,41 @@
+h1{
+    text-align: centre;
+    font-size: 12vh;
+    color: rgb(197, 18, 18);
+    margin-top: -70%;
+}
+body{
+    background-color: rgb(168, 242, 39);
+    margin: 30%;
+    position: absolute;
+
+}
+ #caption {
+    font-size: 17px;
+    font-family: Lucida Sans;
+    color: red;
+ }
+div#tribute-section {
+    background-color: rgb(110, 191, 234);
+    font-family: Georgia;
+    margin: 15px;
+}
+h2.tribute-Lata{
+    color: rgb(204,46,6);
+    background-color: rgb(132, 196, 12);
+    font-size: 35px;
+}
+h2{
+    color: yellow;
+    background-color: rgb(196, 12, 46);
+    font-size: 35px;
+}
+#tribute-link{
+    text-decoration: none;
+    color: blue;
+}
+div#img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
